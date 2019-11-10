@@ -1,0 +1,5 @@
+"}{" => "},{"
+[] => start-end
+
+[] => [{"formatted_address": "None", "geometry": {"location": {"lat": 0, "lng": 0}}}]
+
