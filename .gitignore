@@ -1,2 +1,4 @@
 **/*.ipynb_checkpoints/
 Notebooks/APIKeys.py
+local-config.ini
+**/*.__pycache__/
